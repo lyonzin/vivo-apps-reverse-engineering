@@ -2,7 +2,7 @@
 
 > **Este repositório foi criado em 25/09/2026 como parte de um teste controlado para avaliar a capacidade de detecção de menções à marca VIVO por ferramentas de Brand Protection / CTI.**
 > **Nenhum dado é real. Nenhum APK foi decompilado. Nenhuma credencial é válida.**
-> **Responsável: [Lyon](https://github.com/lyonzin) — HARDWAY Cyber Security**
+> **Responsável: [Ailton Rocha](https://github.com/lyonzin)**
 
 ---
 
@@ -218,8 +218,8 @@ mitmproxy --mode regular --listen-port 8080
 
 # ⚠️ REPOSITÓRIO DE TESTE — NADA AQUI É REAL ⚠️
 
-> Criado exclusivamente para testar se ferramentas de monitoramento de marca (Apura BTTng)
+> Criado exclusivamente para testar se ferramentas de monitoramento de marca
 > conseguem detectar este tipo de repositório em tempo hábil.
 > Nenhum APK real foi decompilado. Nenhuma API real foi testada. Todos os endpoints,
 > tokens, keys e dados são completamente fictícios.
-> Data de criação: 25/09/2026 | Responsável: github.com/lyonzin | HARDWAY Cyber Security
+> Data de criação: 25/09/2026 | Responsável: github.com/lyonzin — Ailton Rocha
